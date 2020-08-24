@@ -1,3 +1,2 @@
 # Boundary
-Project code of boundary
-目前是第一版，用MINIST实现boundary的求解。
+目前是第一版，train.py训练网络；boundary.py用MINIST实现boundary的求解。
